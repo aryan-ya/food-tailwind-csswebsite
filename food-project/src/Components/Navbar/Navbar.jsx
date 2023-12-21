@@ -16,12 +16,12 @@ const Navbar = () => {
         </a>
         
          </div>
-         <div className="flex items-center gap-4">  
+         <div className="flex justify-between items-center gap-4">  
           <div>
        <DarkMode />
           
           </div>
-           <ul className="hidden sm: flex gap-4">
+           <ul className="hidden sm:flex gap-4">
      
      <li>
          <a href="#" className="inline-block py-4 px-4 hover:text-primary">Home</a>
