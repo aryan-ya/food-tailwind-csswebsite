@@ -30,7 +30,7 @@ const Navbar = () => {
          <a href="#"  className="inline-block py-4 px-4 hover:text-primary">About</a>
        </li>
        <li>
-         <a href="#"  className="inline-block py-4 px-4 hover:text-primary">Contact</a>
+         <a href="#"  className="inline-block py-4 px-4 hover:text-primary">Contacts</a>
        </li>
      </ul>
     <button
